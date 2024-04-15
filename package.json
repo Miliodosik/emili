@@ -1,6 +1,6 @@
 {
   "name": "emili",
-  "version": "1.0.0", 
+  "version": "1.0.1",
   "description": "miliodosik",
   "main": "./src/index.js",
   "scripts": {
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Miliodosik/emili.git"
   },
   "keywords": [
-    "", 
+    "",
     "",
     ""
   ],
   "author": "miliodosik",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "emojimili": "^1.0.0"
+  }
 }
